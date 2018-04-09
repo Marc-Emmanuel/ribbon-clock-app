@@ -1,0 +1,25 @@
+svg {
+    margin: 0 auto;
+}
+.path--background {
+    fill: none;
+    stroke-width: 2px;
+}
+.label {
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 100;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    cursor: default;
+}
+.text-white {
+    stroke: white;
+    fill: white;
+}
+.text-black {
+    stroke: black;
+    fill: black;
+}
